@@ -15,7 +15,7 @@ who plan and execute ambitious heists.
 - Brilliant strategies
 - Unexpected plot twists
 
----
+
 
 ## 2. Stranger Things
 
@@ -33,7 +33,7 @@ creatures connected to another dimension.
 - Interesting supernatural events
 - Strong friendship between characters
 
----
+
 
 ## 3. The Vampire Diaries
 
@@ -50,7 +50,7 @@ vampire brothers, Stefan and Damon Salvatore.
 - Memorable characters
 - Unexpected plot twists
 
----
+
 
 ## 4. Alice in Borderland
 
@@ -68,7 +68,7 @@ mysterious version of Tokyo.
 - Suspenseful storyline
 - Unexpected twists
 
----
+
 
 ## 5. The Originals
 
